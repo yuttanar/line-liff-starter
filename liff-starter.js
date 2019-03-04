@@ -7,6 +7,7 @@ window.onload = function (e) {
 function initializeApp(data) {
 
     // sendMessages call
+        const data.context.utouId = 'UU4afa6ecbbed707ef723336758e03162c467ae883ca9e18508c496ffa364ec4d497ea3801cd1af078dfbe427d4bdedea3d5c980bd955a37916b0670050ffe27ad';
 
         liff.sendMessages([{
             type: 'text',
